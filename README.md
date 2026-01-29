@@ -16,6 +16,7 @@
 
   - 7TV badges/colors
   - Link generator
+  - Support custom CDN link and formats(mp4, webm, webp)
   - FM highlight
   - Twitch events highlight
   - Black list
