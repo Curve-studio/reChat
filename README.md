@@ -13,6 +13,7 @@
   - In chat images(jpg, jpeg, png, gif) with NSFW recognition
   - Link generator
   - Black list
+  - Fonts
 
 ## In process:
 
