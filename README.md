@@ -11,28 +11,22 @@
   - Twitch emotes
   - Twitch badges
   - In chat images(jpg, jpeg, png, gif) with NSFW recognition
+  - Link generator
+  - Black list
 
 ## In process:
 
   - 7TV badges/colors
-  - Link generator
   - Support custom CDN link and formats(mp4, webm, webp)
   - FM highlight
   - Twitch events highlight
-  - Black list
   - YouTube and Kick integration
   - Twitch Bot functions
   - Descktop app
 
 
-## How 2 use
+## Quick start
 
 ```url
-https://dev.planefx.cloud/chat/chat?channel=&bg=
+https://dev.planefx.cloud/chat/settings
 ```
-
-| Parameter | Decription         | Type   | Example   |
-| :-------- | :----------------- | :----- | :-------- |
-| channel   | Channel name       | String | monofourm |
-| bg        | Enable backgtound  | Bool   | 1         |
-
