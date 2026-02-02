@@ -28,6 +28,5 @@
 
 ## Quick start
 
-```url
+
 https://dev.planefx.cloud/chat/settings
-```
