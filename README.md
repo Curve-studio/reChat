@@ -8,17 +8,16 @@
 ## Features:
 
   - 7TV emotes
-  - Twitch emotes
-  - Twitch badges
-  - In chat images(jpg, jpeg, png, gif) with NSFW recognition
+  - Twitch emotes/badges/colors
+  - In chat media(jpg/jpeg/png/gif) with NSFW recognition
   - Link generator
   - Black list
-  - Fonts
+  - Custom fotn/border/backgtound/stoke/shadow
 
 ## In process:
 
   - 7TV badges/colors
-  - Support custom CDN link and formats(mp4, webm, webp)
+  - Support custom CDN link and formats(mp4/webm/webp)
   - FM highlight
   - Twitch events highlight
   - YouTube and Kick integration
