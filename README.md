@@ -12,7 +12,7 @@
   - In chat media(jpg/jpeg/png/gif) with NSFW recognition
   - Link generator
   - Black list
-  - Custom fotn/border/backgtound/stoke/shadow
+  - Custom fotn/border/backgtound/stroke/shadow
 
 ## In process:
 
