@@ -7,7 +7,7 @@
 
 ## Features:
 
-  - 7TV emotes
+  - 7TV emotes/colors
   - Twitch emotes/badges/colors
   - In chat media(jpg/jpeg/png/gif) with NSFW recognition
   - Link generator
@@ -16,7 +16,7 @@
 
 ## In process:
 
-  - 7TV badges/colors
+  - 7TV badges
   - Support custom CDN link and formats(mp4/webm/webp)
   - FM highlight
   - Twitch events highlight
