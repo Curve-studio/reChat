@@ -13,6 +13,7 @@
   - Link generator
   - Black list
   - Custom fotn/border/backgtound/stroke/shadow
+  - Auto erase messages
 
 ## In process:
 
